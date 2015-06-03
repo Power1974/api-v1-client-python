@@ -119,7 +119,7 @@ inv = blockexplorer.get_inventory_data('d4af240386cdacab4ca666d178afc88280b620ae
 ```
 hash : str
 version : int
-previous_block (str
+previous_block : str
 merkle_root :str
 time : int
 bits : int
